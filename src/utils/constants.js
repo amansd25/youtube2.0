@@ -17,7 +17,7 @@ export const logo = 'https://p.kindpng.com/picc/s/23-234335_black-youtube-music-
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
   
-  { name: 'Coding', icon: <CodeIcon />, },
+  { name: 'ACoding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
